@@ -1,0 +1,45 @@
+﻿  AuctionManager.cpp
+  Buyer.cpp
+C:\Users\buc03\Downloads\ticket_system\src\Ticket_management_system\Buyer.cpp(61,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  CheckEnrolledTicket.cpp
+  CheckEnrolledTIcketUI.cpp
+C:\Users\buc03\Downloads\ticket_system\src\Ticket_management_system\CheckEnrolledTIcketUI.cpp(33,12): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  CheckReservedTicket.cpp
+  CheckReservedTicketUI.cpp
+C:\Users\buc03\Downloads\ticket_system\src\Ticket_management_system\CheckReservedTicketUI.cpp(34,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  LogIn.cpp
+  LogInUI.cpp
+  LogOut.cpp
+  LogOutUI.cpp
+  main.cpp
+  Member.cpp
+  MemberManager.cpp
+C:\Users\buc03\Downloads\ticket_system\src\Ticket_management_system\MemberManager.cpp(44,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  RegisterTicket.cpp
+  RegisterTicketUI.cpp
+C:\Users\buc03\Downloads\ticket_system\src\Ticket_management_system\RegisterTicketUI.cpp(15,49): warning C4101: 'remainHour' :참조되지 않은 지역 변수입니다.
+C:\Users\buc03\Downloads\ticket_system\src\Ticket_management_system\RegisterTicketUI.cpp(18,18): warning C4101: 'soldOut' :참조되지 않은 지역 변수입니다.
+C:\Users\buc03\Downloads\ticket_system\src\Ticket_management_system\RegisterTicketUI.cpp(15,61): warning C4101: 'remainMinute' :참조되지 않은 지역 변수입니다.
+  SearchAuctionTicket.cpp
+  SearchAuctionTicketUI.cpp
+  SearchTicket.cpp
+C:\Users\buc03\Downloads\ticket_system\src\Ticket_management_system\SearchTicket.cpp(33,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  SearchTicketUI.cpp
+C:\Users\buc03\Downloads\ticket_system\src\Ticket_management_system\SearchTicketUI.cpp(28,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Seller.cpp
+C:\Users\buc03\Downloads\ticket_system\src\Ticket_management_system\Seller.cpp(58,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...
+C:\Users\buc03\Downloads\ticket_system\src\Ticket_management_system\SearchTicket.cpp(42): warning C4715: 'SearchTicket::requestReserveTicket': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  컴파일하고 있습니다...
+  SignUp.cpp
+  SignUpUI.cpp
+  Ticket.cpp
+  TicketManager.cpp
+C:\Users\buc03\Downloads\ticket_system\src\Ticket_management_system\TicketManager.cpp(233,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Timer.cpp
+C:\Users\buc03\Downloads\ticket_system\src\Ticket_management_system\Timer.cpp(244,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\buc03\Downloads\ticket_system\src\Ticket_management_system\Timer.cpp(250,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Withdraw.cpp
+  WithdrawUI.cpp
+  코드를 생성하고 있습니다...
+  Ticket_management_system.vcxproj -> C:\Users\buc03\Downloads\ticket_system\src\Debug\Ticket_management_system.exe
